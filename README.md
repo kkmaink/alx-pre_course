@@ -1,1 +1,1 @@
-My first readme
+This project is for my ALX software engineering course
